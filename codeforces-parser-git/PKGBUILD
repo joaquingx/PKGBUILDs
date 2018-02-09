@@ -3,8 +3,8 @@
 # All my PKGBUILDs can be found in https://www.github.com/joaquingx/PKGBUILDs
 
 pkgname=codeforces-parser-git
-pkgver=r48.5287a01
-pkgrel=2
+pkgver=r50.401ce62
+pkgrel=1
 pkgdesc="Parse sample tests of Codeforces Competitions, and generate tests automatically."
 arch=("any")
 url="https://github.com/johnathan79717/${pkgname%-git}"

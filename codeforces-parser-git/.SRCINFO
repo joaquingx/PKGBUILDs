@@ -1,7 +1,7 @@
 pkgbase = codeforces-parser-git
 	pkgdesc = Parse sample tests of Codeforces Competitions, and generate tests automatically.
-	pkgver = r48.5287a01
-	pkgrel = 2
+	pkgver = r50.401ce62
+	pkgrel = 1
 	url = https://github.com/johnathan79717/codeforces-parser
 	install = codeforces-parser-git.install
 	arch = any
